@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class SortIntegers {
     public static int[] sort(int[] array) {
-        Arrays.sort(array); //testing
+        Arrays.sort(array); //test
         return array;
     }
 
