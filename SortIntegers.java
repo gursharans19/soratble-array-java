@@ -1,7 +1,5 @@
 import java.util.Arrays;
 
-// Testing
-
 public class SortIntegers {
     public static int[] sort(int[] array) {
         Arrays.sort(array);
